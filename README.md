@@ -36,7 +36,7 @@ please email Jivko Atanassov with any questions at: zhim57@yahoo.com. Thank You.
 
 ## Links
 
-[link to this portfolio](https://zhim57.github.io/portfolio-9-23-20/)
+[link to this portfolio](https://github.com/zhim57/portfolio-9-23-20)
 
 [link to the deployed application](https://zhim57.github.io/portfolio-9-23-20/)
   
