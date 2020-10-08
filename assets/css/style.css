@@ -57,8 +57,12 @@ font-weight: bold;
 margin:25px; */
 color:gray;
 font-size: 20px;
+list-style-type: none;
 
 
+}
+.contacts-btn{
+    color:black;
 }
 .card-image-ja{
     width:300px;;
