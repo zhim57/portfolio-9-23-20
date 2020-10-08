@@ -24,7 +24,8 @@ I can be helpful in any industy as a front or back end developer, the website fe
 ## Email
 zhim57@yahoo.com
 ## Contributing
-All instructors ,colleagues and people I meet. Knoledge and experience can come in all shape and sizes from each human interaction.
+All instructors, colleagues and people I meet. Knoledge and inspirations comes in all shape and sizes from each human interaction. Thank you All!
+
 ## License
 ![GitHub](https://img.shields.io/github/license/zhim57/portfolio-9-23-20)
 
